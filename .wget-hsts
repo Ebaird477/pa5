@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+vtnews.vt.edu	0	0	1619136155	31536000
+www.president.vt.edu	0	0	1619121297	31536000
+bloximages.newyork1.vip.townnews.com	0	0	1619121338	604800
